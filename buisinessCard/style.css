@@ -1,0 +1,163 @@
+* {
+    box-sizing: border-box;
+    
+}
+.aboutContent{
+    position: absolute;
+width: 247px;
+height: 61px;
+left: 20px;
+top: 470px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #DCDCDC;
+}
+.interests-content{
+    position: absolute;
+width: 247px;
+height: 61px;
+left: 20px;
+top: 600px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #DCDCDC;
+
+
+}
+.interests{
+    background-color:#23252C;
+    width: 317px;
+    height:110px;
+    left: 151px;
+top: 668px;
+color:white;
+}
+.about{
+    background-color:#23252C;
+    width: 317px;
+    height:580px;
+}
+a:link, a:visited,  a:hover, a:active
+{
+    color: #000000;
+    text-decoration: none;
+}
+.linkedin{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+
+position: absolute;
+width: 115px;
+height: 34px;
+left: 183px;
+top: 418px;
+background: #5093E2;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+.list-items{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.list-items li{
+    padding-right:40px;
+    color:white;
+}
+.footer{
+     position: absolute;
+width: 317px;
+height: 40px;
+background: black;
+
+}
+.container{
+   position: absolute;
+width: 317px;
+height: 460px;
+background: #1A1B21;
+
+}
+.email{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+
+position: absolute;
+width: 115px;
+height: 34px;
+left: 11px;
+top: 418px;
+
+/* white */
+
+background: #FFFFFF;
+/* gray/300 */
+
+border: 1px solid #D1D5DB;
+box-sizing: border-box;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+.sub-title{
+    position: absolute;
+width: 178.06px;
+height: 14.19px;
+left: 75px;
+top: 364px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12.8px;
+line-height: 15px;
+text-align: center;
+color: turquoise;
+
+}
+.title{
+    position: absolute;
+width: 178.06px;
+height: 25.81px;
+left: 76px;
+top: 332px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.dp{
+    position: absolute;
+width: 317px;
+height: 317px;
+border-radius: 10px 10px 0px 0px;
+}
+
