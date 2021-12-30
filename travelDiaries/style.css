@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+.navBar{
+    height:50px;
+    width:400px;
+
+    background-color:#F55A5A;
+    color:white;
+   font-family: 'Pushster', cursive;
+font-weight: 200;
+font-size: 19;
+line-height: 50px;
+text-align: center;
+box-shadow: 0px 3px 3px gray;
+}
+.location{
+    font-size: 10px;
+    margin:4px 2px 3px 2px;
+}
+.maps{
+    font-size:8px;
+    
+    color: gray;
+}
+.img{
+    height:120px;
+    float: left;
+    display: flex;
+    margin-right: 5px;
+}
+.card{
+    margin:20px;
+}
+
